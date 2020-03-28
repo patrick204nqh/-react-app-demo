@@ -1,8 +1,6 @@
 # Patrick's project (using MERN Stack)
 1. How to install
--------
 * Github CLI
--------
 #### Clone source code 
 > git clone https://github.com/patrick-nqh-bl/react-app-demo.git
 #### Install packages
