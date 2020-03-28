@@ -11,5 +11,5 @@
 > cd backend 
 > nodemon server
 #### Start react server
-> react-app-demo-1> npm start
+> react-app-demo-1> npm start.
 App running....
